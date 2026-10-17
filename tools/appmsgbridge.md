@@ -1,6 +1,6 @@
 ---
-name: App Message Bridge
+name: App Message Tools
 creator: finebyte
 link: https://github.com/finebyte/AppMsgBridge
 ---
-Bridge from your native Android app to the Pebble Emulator
+Send App Messages to the Pebble Emulator from a web interface, files, or a native Android app.
